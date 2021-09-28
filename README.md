@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) veri bilimi eğitiminde oluşturduğumuz repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![proje](img/screen.PNG)
+![proje](img/screen.png)
 # Installation
 Öncelikle projeyi clonelayın (Buraya sizin reponuzdan aldığınız link gelecek) 
 ```
